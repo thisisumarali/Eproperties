@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const MainMenu = ({ toggleSubMenu }) => {
   return (
-    <>
+    <> 
       <ul>
         <li className="dropdown-on">
           <Link href="/" onClick={toggleSubMenu} scroll={false}>
