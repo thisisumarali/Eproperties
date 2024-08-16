@@ -1,0 +1,49 @@
+{
+    "subTitle": "WHAT WE DO",
+    "title1": "High Quality Services Of",
+    "title2": "Multiple Industries",
+    "serviceData": [
+        {
+            "id": 1,
+            "animation": "animate__animated animate__slideInUp",
+            "thumb": "service1.png", 
+            "thumb2": "service1.png", 
+            "thumbIcon": "service-icon.png",
+            "thumbIcon2": "sercve-icon1.png",
+            "title": "Mechanical Works",
+            "text": "Consectetur adipiscing elit, sed dots eiusmod tempor incid saidul",
+            "text2": "Long established fact that reader will be distracted by the",
+            "btnIcon": "bi bi-arrow-right",
+            "btnText": "Read More",
+            "sideTitle": "Petroleum Refinery"
+        },
+        {
+            "id": 2,
+            "animation": "animate__animated animate__slideInUp",
+            "thumb": "service2.png", 
+            "thumb2": "service2.png", 
+            "thumbIcon": "service-icon.png",
+            "thumbIcon2": "sercve-icon2.png",
+            "title": "Petroleum Refinery",
+            "text": "Consectetur adipiscing elit, sed dots eiusmod tempor incid saidul",
+            "text2": "Long established fact that reader will be distracted by the",
+            "btnIcon": "bi bi-arrow-right",
+            "btnText": "Read More",
+            "sideTitle": "Petroleum Refinery"
+        },
+        {
+            "id": 3,
+            "animation": "animate__animated animate__slideInUp",
+            "thumb": "service3.png", 
+            "thumb2": "service3.png", 
+            "thumbIcon": "service-icon.png",
+            "thumbIcon2": "sercve-icon3.png",
+            "title": "Industrial Instruments",
+            "text": "Consectetur adipiscing elit, sed dots eiusmod tempor incid saidul",
+            "text2": "Long established fact that reader will be distracted by the",
+            "btnIcon": "bi bi-arrow-right",
+            "btnText": "Read More",
+            "sideTitle": "Petroleum Refinery"
+        }
+    ]
+}

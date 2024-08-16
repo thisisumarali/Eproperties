@@ -1,0 +1,35 @@
+{
+    "title": "Useful Links",
+    "linkData": [
+        {
+            "id": 1,
+            "linkText": " News & Media",
+            "icon": "bi bi-chevron-double-right",
+            "link": ""
+        },
+        {
+            "id": 2,
+            "linkText": " Sustainability",
+            "icon": "bi bi-chevron-double-right",
+            "link": ""
+        },
+        {
+            "id": 3,
+            "linkText": " About Expertise",
+            "icon": "bi bi-chevron-double-right",
+            "link": ""
+        },
+        {
+            "id": 4,
+            "linkText": " Our Team",
+            "icon": "bi bi-chevron-double-right",
+            "link": "/team"
+        },
+        {
+            "id": 5,
+            "linkText": " Contacts",
+            "icon": "bi bi-chevron-double-right",
+            "link": "/contact"
+        }
+    ]
+}

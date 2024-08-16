@@ -1,0 +1,35 @@
+{
+    "title": "Our Services",
+    "serviceData": [
+        {
+            "id": 1,
+            "serviceText": " Visualizing Architecture Daily",
+            "icon": "bi bi-chevron-double-right",
+            "link": ""
+        },
+        {
+            "id": 2,
+            "serviceText": " Dose of Architecture",
+            "icon": "bi bi-chevron-double-right",
+            "link": ""
+        },
+        {
+            "id": 3,
+            "serviceText": " Archaize Architecture Daily",
+            "icon": "bi bi-chevron-double-right",
+            "link": ""
+        },
+        {
+            "id": 4,
+            "serviceText": " Dose of Architecture",
+            "icon": "bi bi-chevron-double-right",
+            "link": ""
+        },
+        {
+            "id": 5,
+            "serviceText": " Visualizing Architecture",
+            "icon": "bi bi-chevron-double-right",
+            "link": ""
+        }
+    ]
+}

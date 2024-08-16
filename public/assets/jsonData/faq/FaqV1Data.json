@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "accordionId": "headingOne",
+        "dataBsTarget": "collapseOne",
+        "title": "What services does your business provide?",
+        "activeClass": "",
+        "bodyTitle": "How much do your services cost?",
+        "bodyText": "Our pricing varies depending on the specific services you require and the scope of your project. We offer customized solutions to fit each client's unique needs and budget. Please contact us for a quote.",
+        "btnClass": "",
+        "ariaExpanded": ""
+    },
+    {
+        "id": 2,
+        "accordionId": "headingTwo",
+        "dataBsTarget": "collapseTwo",
+        "title": "Do you offer any guarantees or refunds?",
+        "activeClass": "show",
+        "bodyTitle": "How much do your services cost?",
+        "bodyText": "Our pricing varies depending on the specific services you require and the scope of your project. We offer customized solutions to fit each client's unique needs and budget. Please contact us for a quote.",
+        "btnClass": "collapsed",
+        "ariaExpanded": ""
+    },
+    {
+        "id": 3,
+        "accordionId": "headingThree",
+        "dataBsTarget": "collapseThree",
+        "title": "How do I get started with your services?",
+        "activeClass": "",
+        "bodyTitle": "How much do your services cost?",
+        "bodyText": "Our pricing varies depending on the specific services you require and the scope of your project. We offer customized solutions to fit each client's unique needs and budget. Please contact us for a quote.",
+        "btnClass": "collapsed",
+        "ariaExpanded": ""
+    },
+    {
+        "id": 4,
+        "accordionId": "headingFour",
+        "dataBsTarget": "collapseFour",
+        "title": "How do I get started with your services?",
+        "activeClass": "",
+        "bodyTitle": "How much do your services cost?",
+        "bodyText": "Our pricing varies depending on the specific services you require and the scope of your project. We offer customized solutions to fit each client's unique needs and budget. Please contact us for a quote.",
+        "btnClass": "collapsed",
+        "ariaExpanded": ""
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "sliderClass": "one",
+        "thumb": "slider-2.jpg",
+        "animation": "animate__animated animate__slideInLeft",
+        "subTitle": "Great Experience In Building",
+        "title1": "The Best Solution",
+        "title2": "Industry Business",
+        "text": "I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and",
+        "btnText": "Read More",
+        "btnIcon": "bi bi-arrow-up-right-circle-fill"
+    },
+    {
+        "id": 2,
+        "sliderClass": "two",
+        "thumb": "slider-5.jpg",
+        "animation": "animate__animated animate__slideInLeft",
+        "subTitle": "Great Experience In Building",
+        "title1": "The Best Solution",
+        "title2": "Industry Business",
+        "text": "I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and",
+        "btnText": "Read More",
+        "btnIcon": "bi bi-arrow-up-right-circle-fill"
+    }
+]

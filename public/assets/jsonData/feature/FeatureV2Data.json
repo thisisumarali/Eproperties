@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "activeClass": "",
+        "icon": "feature-icn1.png",
+        "number": "01.",
+        "title": "Building Construction",
+        "btnText": "Discover More",
+        "btnIcon": "bi bi-arrow-right"
+    },
+    {
+        "id": 2,
+        "activeClass": "two",
+        "icon": "feature-icn2.png",
+        "number": "02.",
+        "title": "Architecture Design",
+        "btnText": "Discover More",
+        "btnIcon": "bi bi-arrow-right"
+    },
+    {
+        "id": 3,
+        "activeClass": "",
+        "icon": "feature-icn3.png",
+        "number": "03.",
+        "title": "Building Renovation",
+        "btnText": "Discover More",
+        "btnIcon": "bi bi-arrow-right"
+    },
+    {
+        "id": 4,
+        "activeClass": "",
+        "icon": "feature-icn4.png",
+        "number": "04.",
+        "title": "Consulting Service",
+        "btnText": "Discover More",
+        "btnIcon": "bi bi-arrow-right"
+    }
+]

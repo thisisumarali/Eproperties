@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "activeClass": "",
+        "featureNumber": "",
+        "thumb": "feature1.png",
+        "titleFirst": "Save Your Time",
+        "titleLast": "And Money",
+        "icon": "bi bi-arrow-up-right"
+    },
+    {
+        "id": 2,
+        "activeClass": "active",
+        "featureNumber": "two",
+        "thumb": "feature2.png",
+        "titleFirst": "Work With Our",
+        "titleLast": "Expert Team",
+        "icon": "bi bi-arrow-up-right"
+    },
+    {
+        "id": 3,
+        "activeClass": "",
+        "featureNumber": "",
+        "thumb": "feature3.png",
+        "titleFirst": "Certificate Work",
+        "titleLast": "Experience",
+        "icon": "bi bi-arrow-up-right"
+    }
+]

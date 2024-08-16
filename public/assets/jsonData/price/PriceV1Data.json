@@ -1,0 +1,57 @@
+{
+    "subTitle": "Pricing Plan",
+    "title": "Our Best Price Plan",
+    "priceData": [
+        {
+            "id": 1,
+            "animation": "animate__animated animate__slideInUp",
+            "title": "Business Plan",
+            "priceCurrency": "$",
+            "price": 424,
+            "priceType": "Per Month",
+            "listIcon": "bi bi-check",
+            "listIcon2": "bi bi-x",
+            "activeClass": "active",
+            "list1": "Five brand monitors",
+            "list2": "12-month fixed price",
+            "list3": "Transmission charge",
+            "list4": "Marketing strategy",
+            "list5": "Free Server Domain",
+            "btnText": "Purchase Now"
+        },
+        {
+            "id": 2,
+            "animation": "animate__animated animate__slideInUp",
+            "title": "Business Plan",
+            "priceCurrency": "$",
+            "price": 500,
+            "priceType": "Per Month",
+            "listIcon": "bi bi-check",
+            "listIcon2": "bi bi-x",
+            "activeClass": "active",
+            "list1": "Five brand monitors",
+            "list2": "12-month fixed price",
+            "list3": "Transmission charge",
+            "list4": "Marketing strategy",
+            "list5": "Free Server Domain",
+            "btnText": "Purchase Now"
+        },
+        {
+            "id": 3,
+            "animation": "animate__animated animate__slideInUp",
+            "title": "Business Plan",
+            "priceCurrency": "$",
+            "price": 300,
+            "priceType": "Per Month",
+            "listIcon": "bi bi-check",
+            "listIcon2": "bi bi-x",
+            "activeClass": "active",
+            "list1": "Five brand monitors",
+            "list2": "12-month fixed price",
+            "list3": "Transmission charge",
+            "list4": "Marketing strategy",
+            "list5": "Free Server Domain",
+            "btnText": "Purchase Now"
+        }
+    ]
+}

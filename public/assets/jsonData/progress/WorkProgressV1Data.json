@@ -1,0 +1,31 @@
+{
+    "subTitle": "Working Proces",
+    "title1": "Check How We Work in",
+    "title2": "Easy Steps",
+    "progressData": [
+        {
+            "id": 1,
+            "thumb": "work1.png",
+            "shape": "work-border-shape.png",
+            "number": "01",
+            "title": "General Contract",
+            "text": "We provide a range of digital marketing lutions including website design"
+        },
+        {
+            "id": 2,
+            "thumb": "work2.png",
+            "shape": "work-border-shape.png",
+            "number": "02",
+            "title": "Project Planing",
+            "text": "We provide a range of digital marketing lutions including website design"
+        },
+        {
+            "id": 3,
+            "thumb": "work3.png",
+            "shape": "work-border-shape.png",
+            "number": "03",
+            "title": "Interior Design",
+            "text": "We provide a range of digital marketing lutions including website design"
+        }
+    ]
+}

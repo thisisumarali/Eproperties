@@ -1,0 +1,71 @@
+{
+    "subTitle": "OUR WORKERS",
+    "title1": "Working With Excellentour",
+    "title2": "Great Team",
+    "teamData": [
+        {
+            "id": 1,
+            "thumb": "team1.png",
+            "icon": "bi bi-plus-lg",
+            "name": "Kevin Martin",
+            "designation": "Ceo Transport",
+            "singleTeamClass": ""
+        },
+        {
+            "id": 2,
+            "thumb": "team2.png",
+            "icon": "bi bi-plus-lg",
+            "name": "Roten Barsaw",
+            "designation": "Foundation Specialist",
+            "singleTeamClass": ""
+        },
+        {
+            "id": 3,
+            "thumb": "team3.png",
+            "icon": "bi bi-plus-lg",
+            "name": "Istiak Ahmed",
+            "designation": "Skyscraper Engineer",
+            "singleTeamClass": ""
+        },
+        {
+            "id": 4,
+            "thumb": "team4.png",
+            "icon": "bi bi-plus-lg",
+            "name": "Roten Burl",
+            "designation": "Design Innovator",
+            "singleTeamClass": ""
+        },
+        {
+            "id": 5,
+            "thumb": "team5.png",
+            "icon": "bi bi-plus-lg",
+            "name": "Michael Young",
+            "designation": "Safety Expert",
+            "singleTeamClass": "mt-150"
+        },
+        {
+            "id": 6,
+            "thumb": "team6.png",
+            "icon": "bi bi-plus-lg",
+            "name": "Amelia Davies",
+            "designation": "Efficiency Guru",
+            "singleTeamClass": "mt-150"
+        },
+        {
+            "id": 7,
+            "thumb": "team7.png",
+            "icon": "bi bi-plus-lg",
+            "name": "Evelyn Walker",
+            "designation": "Environmental Steward",
+            "singleTeamClass": "mt-150"
+        },
+        {
+            "id": 8,
+            "thumb": "team8.png",
+            "icon": "bi bi-plus-lg",
+            "name": "William Thompson",
+            "designation": "Smart Tech Integrator",
+            "singleTeamClass": "mt-150"
+        }
+    ]
+}

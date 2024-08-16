@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "thumb": "about-icon1.png",
+        "title": "Worldwide Service",
+        "text": "Lorem ipsum is simply velit anod ipas aliquet enean quis."
+    },
+    {
+        "id": 2,
+        "thumb": "about-icon2.png",
+        "title": "Award Winner",
+        "text": "Lorem ipsum is simply velit anod ipas aliquet enean quis."
+    }
+]

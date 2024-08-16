@@ -1,0 +1,87 @@
+{
+    "subTitle": "WHAT WE DO",
+    "title1": "High Quality Services Of ",
+    "title2": "Multiple Industries",
+    "serviceData": [
+        {
+            "id": 1,
+            "animation": "animate__animated animate__slideInUp",
+            "iconThumb": "service-style1.png",
+            "title": "Construction Management",
+            "text": "Services related to financial record-keeping, bookkeeping, tax preparation.",
+            "thumb": "service4.png",
+            "icon": "bi bi-arrow-right",
+            "serviceSpace": ""
+        },
+        {
+            "id": 2,
+            "animation": "animate__animated animate__slideInUp",
+            "iconThumb": "service-style2.png",
+            "title": "Construction Management",
+            "text": "Services related to financial record-keeping, bookkeeping, tax preparation.",
+            "thumb": "service5.png",
+            "icon": "bi bi-arrow-right",
+            "serviceSpace": ""
+        },
+        {
+            "id": 3,
+            "animation": "animate__animated animate__slideInUp",
+            "iconThumb": "service-style3.png",
+            "title": "Construction Management",
+            "text": "Services related to financial record-keeping, bookkeeping, tax preparation.",
+            "thumb": "service6.png",
+            "icon": "bi bi-arrow-right",
+            "serviceSpace": ""
+        },
+        {
+            "id": 4,
+            "animation": "animate__animated animate__slideInUp",
+            "iconThumb": "service-style4.png",
+            "title": "Construction Management",
+            "text": "Services related to financial record-keeping, bookkeeping, tax preparation.",
+            "thumb": "service7.png",
+            "icon": "bi bi-arrow-right",
+            "serviceSpace": ""
+        },
+        {
+            "id": 5,
+            "animation": "animate__animated animate__slideInUp",
+            "iconThumb": "service-style1.png",
+            "title": "Construction Management",
+            "text": "Services related to financial record-keeping, bookkeeping, tax preparation.",
+            "thumb": "service8.png",
+            "icon": "bi bi-arrow-right",
+            "serviceSpace": "mt-30"
+        },
+        {
+            "id": 6,
+            "animation": "animate__animated animate__slideInUp",
+            "iconThumb": "service-style2.png",
+            "title": "Construction Management",
+            "text": "Services related to financial record-keeping, bookkeeping, tax preparation.",
+            "thumb": "service9.png",
+            "icon": "bi bi-arrow-right",
+            "serviceSpace": "mt-30"
+        },
+        {
+            "id": 7,
+            "animation": "animate__animated animate__slideInUp",
+            "iconThumb": "service-style3.png",
+            "title": "Construction Management",
+            "text": "Services related to financial record-keeping, bookkeeping, tax preparation.",
+            "thumb": "service10.png",
+            "icon": "bi bi-arrow-right",
+            "serviceSpace": "mt-30"
+        },
+        {
+            "id": 8,
+            "animation": "animate__animated animate__slideInUp",
+            "iconThumb": "service-style4.png",
+            "title": "Construction Management",
+            "text": "Services related to financial record-keeping, bookkeeping, tax preparation.",
+            "thumb": "service11.png",
+            "icon": "bi bi-arrow-right",
+            "serviceSpace": "mt-30"
+        }
+    ]
+}

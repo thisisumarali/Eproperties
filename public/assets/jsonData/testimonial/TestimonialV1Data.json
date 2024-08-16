@@ -1,0 +1,47 @@
+{
+    "subTitle": "TESTIMONIALS",
+    "title": "Our Happy Clients",
+    "title2": "Says About Us",
+    "testimonialData": [
+        {
+            "id": 1,
+            "testimonialClass": "",
+            "animation": "animate__animated animate__slideInUp",
+            "thumb": "testi1.png",
+            "name": "Kevin Martin",
+            "designation": "Founder",
+            "text": "Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate",
+            "icon": "testi-icon.png"
+        },
+        {
+            "id": 2,
+            "testimonialClass": "mt-180",
+            "animation": "animate__animated animate__slideInUp",
+            "thumb": "testi2.png",
+            "name": "Guy Hawkins",
+            "designation": "Manager",
+            "text": "Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate",
+            "icon": "testi-icon.png"
+        },
+        {
+            "id": 3,
+            "testimonialClass": "",
+            "animation": "animate__animated animate__slideInUp",
+            "thumb": "testi3.png",
+            "name": "Alex Mitchell",
+            "designation": "Manager",
+            "text": "Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate",
+            "icon": "testi-icon.png"
+        },
+        {
+            "id": 4,
+            "testimonialClass": "mt-180",
+            "animation": "animate__animated animate__slideInUp",
+            "thumb": "testi4.png",
+            "name": "Jessca Arow",
+            "designation": "Manager",
+            "text": "Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate",
+            "icon": "testi-icon.png"
+        }
+    ]
+}

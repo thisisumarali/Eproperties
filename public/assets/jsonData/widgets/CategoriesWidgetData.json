@@ -1,0 +1,41 @@
+{
+    "title": "Main Services",
+    "categoriesData": [
+        {
+            "id": 1,
+            "title": "Business Solution",
+            "icon": "bi bi-chevron-right",
+            "categoriesLink": "service-details"
+        },
+        {
+            "id": 2,
+            "title": "Expert Mechanical",
+            "icon": "bi bi-chevron-right",
+            "categoriesLink": "service-details"
+        },
+        {
+            "id": 3,
+            "title": "Architecture & Building",
+            "icon": "bi bi-chevron-right",
+            "categoriesLink": "service-details"
+        },
+        {
+            "id": 4,
+            "title": "Construction Management",
+            "icon": "bi bi-chevron-right",
+            "categoriesLink": "service-details"
+        },
+        {
+            "id": 5,
+            "title": "Apartment Design",
+            "icon": "bi bi-chevron-right",
+            "categoriesLink": "service-details"
+        },
+        {
+            "id": 6,
+            "title": "Facade Engineering",
+            "icon": "bi bi-chevron-right",
+            "categoriesLink": "service-details"
+        }
+    ]
+}

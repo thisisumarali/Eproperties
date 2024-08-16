@@ -1,0 +1,34 @@
+{
+    "subTitle": "TESTIMONIALS",
+    "title1": "Our Happy Clients",
+    "title2": "Says About Us",
+    "testimonialData": [
+        {
+            "id": 1,
+            "icon": "fas fa-quote-right",
+            "text": "Lorem ipsum dolor sit amet,eiusmod  consectetur adipiscing tempor  elit, sed do eiusmod tempor at incididunt ut labore et dolore magna.enim minim nostrud   veniam, nostrud",
+            "reviewer": "testi5.png",
+            "name": "Peter Wright",
+            "designation": "Manager",
+            "ratings": 5
+        },
+        {
+            "id": 2,
+            "icon": "fas fa-quote-right",
+            "text": "Lorem ipsum dolor sit amet,eiusmod  consectetur adipiscing tempor  elit, sed do eiusmod tempor at incididunt ut labore et dolore magna.enim minim nostrud   veniam, nostrud",
+            "reviewer": "testi5.png",
+            "name": "Mark Wood",
+            "designation": "Ceo",
+            "ratings": 4.5
+        },
+        {
+            "id": 3,
+            "icon": "fas fa-quote-right",
+            "text": "Lorem ipsum dolor sit amet,eiusmod  consectetur adipiscing tempor  elit, sed do eiusmod tempor at incididunt ut labore et dolore magna.enim minim nostrud   veniam, nostrud",
+            "reviewer": "testi5.png",
+            "name": "David Waugh",
+            "designation": "Founder",
+            "ratings": 4
+        }
+    ]
+}

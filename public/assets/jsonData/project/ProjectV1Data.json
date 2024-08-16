@@ -1,0 +1,43 @@
+{
+    "subTitle": "LATEST PROJECTS",
+    "title": "Let's Checkout Our Recently",
+    "title2": "Completed Work",
+    "projectData": [
+        {
+            "id": 1,
+            "animation": "animate__animated animate__slideInUp",
+            "projectClass": "",
+            "thumb": "project1.jpg",
+            "title": "Oil Mill Construction",
+            "subTitle": "Machine Renovation",
+            "icon": "bi bi-arrow-right"
+        },
+        {
+            "id": 2,
+            "animation": "animate__animated animate__slideInUp",
+            "projectClass": "two mt-60",
+            "thumb": "project2.jpg",
+            "title": "Factory Construction",
+            "subTitle": "Architect Renovation",
+            "icon": "bi bi-arrow-right"
+        },
+        {
+            "id": 3,
+            "animation": "animate__animated animate__slideInUp",
+            "projectClass": "three",
+            "thumb": "project3.jpg",
+            "title": "Building Construction",
+            "subTitle": "Building Renovation",
+            "icon": "bi bi-arrow-right"
+        },
+        {
+            "id": 4,
+            "animation": "animate__animated animate__slideInUp",
+            "projectClass": "four",
+            "thumb": "project4.jpg",
+            "title": "Workshop Construction",
+            "subTitle": "Factory Renovation",
+            "icon": "bi bi-arrow-right"
+        }
+    ]
+}

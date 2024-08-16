@@ -1,0 +1,50 @@
+{
+    "title": "Popular Tags",
+    "tagsData": [
+        {
+            "id": 1,
+            "name": "Services",
+            "pathLink": "#"
+        },
+        {
+            "id": 2,
+            "name": "Business",
+            "pathLink": "#"
+        },
+        {
+            "id": 1,
+            "name": "Grooming",
+            "pathLink": "#"
+        },
+        {
+            "id": 1,
+            "name": "Breeding",
+            "pathLink": "#"
+        },
+        {
+            "id": 1,
+            "name": "Growth",
+            "pathLink": "#"
+        },
+        {
+            "id": 1,
+            "name": "Stable",
+            "pathLink": "#"
+        },
+        {
+            "id": 1,
+            "name": "Education",
+            "pathLink": "#"
+        },
+        {
+            "id": 1,
+            "name": "America",
+            "pathLink": "#"
+        },
+        {
+            "id": 1,
+            "name": "Maintenance",
+            "pathLink": "#"
+        }
+    ]
+}
