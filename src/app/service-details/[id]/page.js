@@ -8,7 +8,7 @@ import NotFound from '../../not-found';
 import HeaderV1 from '@/src/components/header/HeaderV1';
 
 export const metadata = {
-    title: "Service Details - E-Properties Construction Building NextJS Template"
+    title: "Service Details - E-Properties Construction Building"
 }
 
 const SingleService = ({ params }) => {

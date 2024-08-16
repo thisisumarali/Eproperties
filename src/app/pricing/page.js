@@ -6,7 +6,7 @@ import HeaderV1 from '@/src/components/header/HeaderV1';
 import PriceV1 from '@/src/components/price/PriceV1';
 
 export const metadata = {
-    title: "Pricing - E-Properties Construction Building NextJS Template"
+    title: "Pricing - E-Properties Construction Building"
 }
 
 const Pricing = () => {

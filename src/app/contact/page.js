@@ -6,7 +6,7 @@ import FooterV1 from '@/src/components/footer/FooterV1';
 import HeaderV1 from '@/src/components/header/HeaderV1';
 
 export const metadata = {
-    title: "Contact - E-Properties Construction Building NextJS Template"
+    title: "Contact - E-Properties Construction Building "
 }
 
 const Contact = () => {

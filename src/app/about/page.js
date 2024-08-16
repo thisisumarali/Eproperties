@@ -9,7 +9,7 @@ import HeaderV1 from '@/src/components/header/HeaderV1';
 import TestimonialV2 from '@/src/components/testimonial/TestimonialV2';
 
 export const metadata = {
-    title: "About - E-Properties Construction Building NextJS Template"
+    title: "About - E-Properties Construction Building  "
 }
 
 const About = () => {

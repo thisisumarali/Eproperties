@@ -13,7 +13,7 @@ import ServiceV1 from '@/src/components/service/ServiceV1';
 import TestimonialV1 from '@/src/components/testimonial/TestimonialV1';
 
 export const metadata = {
-    title: "Home - E-Properties Construction Building NextJS Template"
+    title: "Home - E-Properties Construction Building "
 }
 
 const Home = () => {

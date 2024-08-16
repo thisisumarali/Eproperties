@@ -1,7 +1,7 @@
 import Home from '@/src/app/home/page'
 
 export const metadata = {
-  title: "Home - E-Properties Construction Building NextJS Template"
+  title: "Home - E-Properties Construction Building NextJS"
 }
 
 const HomePage = () => {
