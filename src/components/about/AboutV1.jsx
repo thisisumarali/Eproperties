@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
 import aboutThumb from '@/public/assets/images/about/about.jpg'
-import aboutShape from '@/public/assets/images/about/about-shape.png'
+import aboutShape from '@/public/assets/images/about/about-shape.jpg'
 import AboutV1Content from './AboutV1Content'
 
 const AboutV1 = ({ aboutClass }) => {

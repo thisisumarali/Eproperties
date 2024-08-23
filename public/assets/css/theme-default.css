@@ -156,9 +156,9 @@ button {
 }
 
 input:focus {
-    border-color: #F60;
-    outline-color: #F60;
-    border: 1px solid #F60;
+    border-color: #f5c000;
+    outline-color: #f5c000;
+    border: 1px solid #f5c000;
 }
 
 input[type="search"]::-webkit-search-decoration,
@@ -169,8 +169,8 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 textarea:focus {
-    border-color: #F60;
-    outline-color: #F602;
+    border-color: #f5c000;
+    outline-color: #f5c0002;
 }
 
 hr {
@@ -181,7 +181,7 @@ hr {
 }
 
 hr.style-2 {
-    border-bottom: 1px dashed #F60;
+    border-bottom: 1px dashed #f5c000;
 }
 
 hr.mp-0 {
@@ -325,7 +325,7 @@ ul {
     font-size: 16px;
     right: 20px;
     text-decoration: none;
-    background: #F60;
+    background: #f5c000;
     border-radius: 50%;
     width: 50px;
     height: 50px;
